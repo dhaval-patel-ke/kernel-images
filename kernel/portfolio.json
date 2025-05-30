@@ -1,1 +1,142 @@
-
+[
+  {
+    "id": "compass",
+    "name": "Compass",
+    "category": "Medical",
+    "year": 2020,
+    "status": "exit",
+    "logoUrl": "https://dhaval-patel-ke.github.io/kernel-images/kernel/Compass.png",
+    "description": "Compass by Medical Ventures, Inc. is an orthopedic scheduling system. The software streamlines the process of scheduling, tracking, planning and reporting on all surgeries.",
+    "details": {
+      "overview": "<p>Using an iPad app, a representative schedules the procedure and the system captures all of the associated data, including the kits, the procedure involved, general patient data, the surgeon, group or hospital, and the price associated with the institution. The system also tracks all associated marketing expenses so that FDA regulations are not violated. Daily reminders show what needs to be shipped, retrieved, or moved to the next institution. The system captures all of the invoices via email, and then provides daily reconciliation of the numbers.</p>",
+      "bullets": "<ul><li>Streamlines orthopedic surgery scheduling and tracking.</li><li>Captures comprehensive procedural and patient data.</li><li>Ensures FDA compliance through marketing expense tracking.</li><li>Provides daily reminders and reconciliations.</li></ul>",
+      "website": null
+    }
+  },
+  {
+    "id": "tempo",
+    "name": "Tempo (Formerly Kalatech)",
+    "category": "Music Technology",
+    "year": 2010,
+    "status": "active",
+    "logoUrl": "https://dhaval-patel-ke.github.io/kernel-images/kernel/Tempo.png",
+    "description": "Tempo offers music business solutions aimed at streamlining processes for booking agencies, tour management, talent buying, and music publishers.",
+    "details": {
+      "overview": "<p>Based in Nashville, TN, Tempo was launched in April 2010 with its 4 music business solutions after more than 4 years of building, refining, and serving music industry professionals. Our goal has always been to streamline the processes of <a href=\"https://www.yourtempo.com\" target=\"_blank\">booking agencies</a>, <a href=\"https://www.yourtempo.com\" target=\"_blank\">tour management</a>, <a href=\"https://www.yourtempo.com\" target=\"_blank\">talent buying software</a> and crew, as well as <a href=\"https://www.yourtempo.com\" target=\"_blank\">music publishers</a> so they can spend more time focusing on what they do best--making great music and sharing it with the world.</p><p>To accomplish these objectives, we are partnered with one of the best web and applications development companies in Nashville, <a href=\"https://www.kernelequity.com\" target=\"_blank\">Kernel Equity</a>, granting us access to dedicated programmers focused on the daily maintenance and updates to our systems. As technology and business practices evolve, our programmers stay on top of the ever changing landscape of the online world, ensuring each of our clients remain more than just relevant players, but ahead of the game.</p>",
+      "bullets": "<ul><li>Provides solutions for booking agencies and tour management.</li><li>Streamlines talent buying and music publishing processes.</li><li>Partners with Kernel Equity for dedicated development support.</li><li>Ensures clients stay ahead in the evolving online landscape.</li></ul>",
+      "website": "https://www.yourtempo.com"
+    }
+  },
+  {
+    "id": "hopdoc",
+    "name": "HopDoc",
+    "category": "Healthcare Technology",
+    "year": 2023,
+    "status": "active",
+    "logoUrl": "https://dhaval-patel-ke.github.io/kernel-images/kernel/Hopdoc.png",
+    "description": "Hopdoc is a virtual toolbox for medical practices, offering digital solutions designed to help practices thrive in a technology-driven healthcare landscape.",
+    "details": {
+      "overview": "<p>Hopdoc is a virtual toolbox for your practice. A collection of powerful, easy-to-use digital solutions designed to help big and small practices, urgent care clinics, and mental health providers thrive in a healthcare landscape where more and more patients are using technology to find and interact with providers.</p>",
+      "bullets": "<ul><li>Offers digital solutions for various medical practices.</li><li>Enhances patient-provider interactions using technology.</li><li>Supports both large and small healthcare providers.</li><li>Adapts to the evolving digital healthcare environment.</li></ul>",
+      "website": "https://www.hopdoc.com"
+    }
+  },
+  {
+    "id": "time-miner",
+    "name": "Time Miner",
+    "category": "Legal Technology",
+    "year": 2021,
+    "status": "active",
+    "logoUrl": "https://kernel-images.s3.amazonaws.com/time-miner.png",
+    "description": "Time Miner automates the process of finding past billable communications and creates time entries, integrating with various platforms.",
+    "details": {
+      "overview": "<p>Time Miner finds past billable calls, text messages, and emails and automatically creates time entries.</p><p>Time Miner offers integrations with:</p><ul><li>RingCentral, a VoIP provider (Note: Android users must have RingCentral to take advantage of Time Miner's call and text mining features).</li><li>Gmail</li><li>Outlook/Outlook 365</li><li>Clio Practice Management Software</li></ul><p>Key Features:</p><ul><li>For professionals that bill for their time, Time Miner eliminates the need to keep up with billable communication contemporaneously.</li><li>Add your contacts to Time Miner that you're actively billing, select date parameters, and Time Miner will go back and find all calls, texts, and emails with those clients within that time frame.</li><li>With the push of a button, Time Miner organizes your calls, texts, and emails into a report and calculates how much each communication is worth, using your hourly rate.</li><li>For Clio users, Time Miner exports time entries directly to individual matters in Clio.</li></ul>",
+      "bullets": "<ul><li>Automates retrieval of billable communications.</li><li>Integrates with major communication and management platforms.</li><li>Eliminates the need for contemporaneous billing records.</li><li>Calculates the value of communications using hourly rates.</li></ul>",
+      "website": "https://timeminer.com"
+    }
+  },
+  {
+    "id": "plankk",
+    "name": "Plankk",
+    "category": "Fitness Technology",
+    "year": 2022,
+    "status": "active",
+    "logoUrl": "https://kernel-images.s3.amazonaws.com/plankk.png",
+    "description": "Plankk is a platform that empowers fitness influencers to create and distribute personalized fitness content to their audiences.",
+    "details": {
+      "overview": "<p>Plankk provides tools for fitness professionals to build custom apps, offering workout plans, nutrition guides, and community engagement features to their followers.</p>",
+      "bullets": "<ul><li>Enables fitness influencers to monetize their content.</li><li>Offers customizable app solutions for fitness branding.</li><li>Integrates workout tracking and nutrition planning.</li><li>Fosters community engagement through interactive features.</li></ul>",
+      "website": "https://www.plankk.com"
+    }
+  },
+  {
+    "id": "theravista-health",
+    "name": "TheraVista Health",
+    "category": "Healthcare Technology",
+    "year": 2023,
+    "status": "active",
+    "logoUrl": "https://kernel-images.s3.amazonaws.com/theravista-health.png",
+    "description": "TheraVista Health specializes in remote therapeutic monitoring solutions for vestibular rehabilitation.",
+    "details": {
+      "overview": "<p>TheraVista Health offers innovative remote monitoring tools that aid in the rehabilitation of patients with vestibular disorders, enhancing patient outcomes through technology.</p>",
+      "bullets": "<ul><li>Provides remote monitoring for vestibular rehabilitation.</li><li>Enhances patient engagement and adherence to therapy.</li><li>Utilizes technology to track progress and outcomes.</li><li>Improves accessibility to specialized rehabilitation services.</li></ul>",
+      "website": "https://www.theravistahealth.com"
+    }
+  },
+  {
+    "id": "clarity-behavioral-health",
+    "name": "Clarity Behavioral Health",
+    "category": "Mental Health",
+    "year": 2023,
+    "status": "active",
+    "logoUrl": "https://dhaval-patel-ke.github.io/kernel-images/kernel/Clarity.png",
+    "description": "Clarity Behavioral Health provides personalized treatment and relaxation content for in-patient behavioral health centers.",
+    "details": {
+      "overview": "<p>Clarity Behavioral Health offers a suite of digital tools designed to enhance the therapeutic environment in behavioral health facilities, focusing on patient-centered care.</p>",
+      "bullets": "<ul><li>Delivers personalized therapeutic content to patients.</li><li>Supports relaxation and mindfulness in clinical settings.</li><li>Integrates with existing healthcare infrastructure.</li><li>Aims to improve patient outcomes in behavioral health.</li></ul>",
+      "website": "https://www.claritybehavioralhealth.com"
+    }
+  },
+  {
+    "id": "5-star-finds",
+    "name": "5 Star Finds",
+    "category": "Retail",
+    "year": 2022,
+    "status": "active",
+    "logoUrl": "https://kernel-images.s3.amazonaws.com/5-star-finds.png",
+    "description": "5 Star Finds is a retail store specializing in overstock and liquidation goods, offering customers quality products at discounted prices.",
+    "details": {
+      "overview": "<p>WE ARE A RETAIL STORE LOCATED IN THE HEART OF HENDERSONVILLE, TN. WE SPECIALIZE IN OVERSTOCK & LIQUIDATION GOODS! OUR FOUNDERS ARE A FATHER & SON DUO, TWO TRUE TENNESSEE NATIVES WITH A PASSION FOR COMMUNITY, SOUTHERN HOSPITALITY AND ELITE CUSTOMER SERVICE. OUR GOAL IS NOT ONLY TO PROVIDE OUR CUSTOMERS WITH 5 STAR DEALS ON ITEMS FOR THEIR HOMES AND BUSINESSES, BUT TO PROVIDE A ONE OF A KIND SHOPPING EXPERIENCE BOTH IN STORE AND ONLINE. WE LOOK FORWARD TO HELPING YOU WITH ALL OF YOUR 5 STAR FINDS!</p>",
+      "bullets": "<ul><li>Offers a wide range of overstock and liquidation products.</li><li>Emphasizes community involvement and customer satisfaction.</li><li>Provides both in-store and online shopping experiences.</li><li>Operated by a father and son duo passionate about retail.</li></ul>",
+      "website": "https://www.5starfinds.com"
+    }
+  },
+  {
+    "id": "clearly-legal",
+    "name": "Clearly Legal",
+    "category": "Legal Education",
+    "year": 2024,
+    "status": "active",
+    "logoUrl": "https://kernel-images.s3.amazonaws.com/clearly-legal.png",
+    "description": "Clearly Legal is a revolutionary CLE-by-podcast app, transforming the way legal professionals earn continuing education credits.",
+    "details": {
+      "overview": "<p>Clearly Legal offers on-the-go CLE courses through podcasts, making it convenient for legal professionals to stay updated and fulfill their education requirements.</p>",
+      "bullets": "<ul><li>Provides CLE courses in podcast format for flexibility.</li><li>Covers a wide range of legal topics and jurisdictions.</li><li>Allows tracking and certification of completed courses.</li><li>Enhances accessibility to continuing legal education.</li></ul>",
+      "website": "https://www.clearlylegal.com"
+    }
+  },
+ {
+  "id": "creative-health-care-insight",
+  "name": "Creative Health Care Insight",
+  "category": "Healthcare Technology",
+  "year": 2023,
+  "status": "active",
+  "logoUrl": "https://kernel-images.s3.amazonaws.com/creative-health-care-insight.png",
+  "description": "Implementing this platform can provide substantial savings and significant efficiencies for your organization. Creative Health Care Insight is a cloud-based platform comprised of two powerful suites: Competency Suite and Professional Portfolio Suite.",
+  "details": {
+    "overview": "<p>By streamlining processes, eliminating inefficiencies, and providing secure access to customize data to meet ANCC requirements, Creative Health Care Insight's platform offers a solution that is innovative, intuitive, and game-changing to multiple departments within an organization. No more patching together platforms—Creative Health Care Insight is a full-service solution for data collection and competency needs.</p>",
+    "bullets": "<ul><li><strong>Competency Suite:</strong> Includes Ongoing Competency Component, Initial Competency Component, and Relational Competency Assessment Component.</li><li><strong>Professional Portfolio Suite:</strong> Includes Demographic Data Collection Component and Professional Advancement Component.</li><li>Streamlines processes and eliminates inefficiencies.</li><li>Provides secure, customizable access to meet ANCC requirements.</li><li>Offers substantial savings and significant efficiencies for your organization.</li></ul>",
+    "website": "https://www.creativehealthcareinsight.com"
+  }
+}
+]
